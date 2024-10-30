@@ -5,4 +5,4 @@ x=0
 for i in list1:
     #print(i)
     x=x+i
-cprint(x)
+c-print(x)
